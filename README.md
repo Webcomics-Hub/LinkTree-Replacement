@@ -16,7 +16,7 @@
     
 Created my own linktree alternative, in simple HTML and CSS that looks good on PC and mobile. This was a test in web development and making simple websites without overcomplicating my damn life. I enjoyed working on it. All is well  
 
-##How to use this code
+## How to use this code
 
 First click on code and click Download Zip and open the file Index.html in notepad++ or notepad or whatever text editor you like and follow the instructions in the file. Not Microsoft Word or any word processor.
 
