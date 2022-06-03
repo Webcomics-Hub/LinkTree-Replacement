@@ -18,7 +18,7 @@ Created my own linktree alternative, in simple HTML and CSS that looks good on P
 
 ## How to use this code
 
-First click on code and click Download Zip and open the file Index.html in notepad++ or notepad or whatever text editor you like and follow the instructions in the file. Not Microsoft Word or any word processor.
+Either click "Use this Template" or click on code and click Download Zip and open the file Index.html in notepad++ or notepad or whatever text editor you like and follow the instructions in the file. Not Microsoft Word or any word processor.
 
 ![image](https://user-images.githubusercontent.com/29668657/171272187-ed5694a6-f425-4698-86d7-a7d987cc449d.png)
 
