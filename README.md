@@ -1,6 +1,6 @@
 <h1 align="center"> Linktree Alternative for Webcomics Hub </h1>
 
-[This is what my site looks like](links.webcomicshub.co.uk)
+<p align="center"> <a href="links.webcomicshub.co.uk">This is what my site looks like</a> </p>
 
 <p align="center">If this is useful to you check out my youtube, buy me a ko-fi or just follow me on twitter</p>
 <br>
