@@ -8,7 +8,7 @@
 <a href="https://www.twitter.com/webcomics_hub"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="icon | Twitter" width="63px"></a> 
 <a href="https://www.youtube.com/webcomicshub"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="icon | Youtube" width="63px"></a> 
 <a href="https://www.patreon.com/webcomicshub"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111548.png" alt="icon | Patreon" width="63px"></a>
-<a href="https://www.ko-fi.com/webcomicshub"><img align="center" src="https://cdn-icons.flaticon.com/png/512/1047/premium/1047503.png?token=exp=1654026915~hmac=3a59792201c5bad399c104060ade1318" alt="icon | Ko-Fi" width="63px"></a>
+<a href="https://www.ko-fi.com/webcomicshub"><img align="center" src="https://cdn-icons.flaticon.com/png/512/1047/premium/1047503.png" alt="icon | Ko-Fi" width="63px"></a>
 </div>
 
 <br>
