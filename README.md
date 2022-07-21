@@ -1,4 +1,5 @@
-<h1 align="center"> Linktree Alternative for Webcomics Hub </h1>
+<h1 align="center"> Linktree Alternative from Webcomics Hub </h1>
+<h2>Get this if like me you hate NFT's and think companies shouldn't involve themselves with NFTs</h2>
 
 <p align="center"> <a href="links.webcomicshub.co.uk">This is what my site looks like</a> </p>
 
