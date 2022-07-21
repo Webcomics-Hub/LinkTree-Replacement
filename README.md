@@ -5,10 +5,11 @@
 <p align="center">If this is useful to you check out my youtube, buy me a ko-fi or just follow me on twitter</p>
 <br>
 <div align="center">
-<a href="https://www.twitter.com/webcomics_hub"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="icon | Twitter" width="63px"></a> 
-<a href="https://www.youtube.com/webcomicshub"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="icon | Youtube" width="63px"></a> 
-<a href="https://www.patreon.com/webcomicshub"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111548.png" alt="icon | Patreon" width="63px"></a>
-<a href="https://www.ko-fi.com/webcomicshub"><img align="center" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11ddcc39341db4958c5cc_Supportbutton.png" alt="icon | Ko-Fi" width="63px"></a>
+<a href="https://www.twitter.com/webcomics_hub"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="icon | Twitter" width="63px">&nbsp</a> 
+<a href="https://www.youtube.com/webcomicshub"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="icon | Youtube" width="63px">&nbsp</a>
+<a href="https://www.patreon.com/webcomicshub"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111548.png" alt="icon | Patreon" width="63px">&nbsp</a><br>
+    <br>
+<a href="https://www.ko-fi.com/webcomicshub"><img align="center" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11ddcc39341db4958c5cc_Supportbutton.png" alt="icon | Ko-Fi" width="400px"></a>
 </div>
 
 <br>
