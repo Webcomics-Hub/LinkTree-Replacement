@@ -1,7 +1,7 @@
 <h1 align="center"> Linktree Alternative from Webcomics Hub </h1>
 <h2 align="center">Made this because I hate NFT's and Crypto, they don't deserve a place on this earth</h2>
 
-<p align="center"> <a href="links.webcomicshub.co.uk">This is what my site looks like</a> </p>
+<p align="center"> <a href="https://links.webcomicshub.co.uk">This is what my site looks like</a> </p>
 
 <p align="center">If this is useful to you check out my youtube, buy me a ko-fi or just follow me on twitter</p>
 <br>
