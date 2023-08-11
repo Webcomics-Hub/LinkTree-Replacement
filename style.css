@@ -1,16 +1,17 @@
 /* Style Settings */
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap');
+
 :root {
-    --bgColor:#3d3b3c;
+    --bgColor: #3d3b3c;
     --accentColor: #fff;
     --font: 'Karla', sans-serif;
 }
 
-body{
+body {
     background-color: var(--bgColor);
 }
 
-#userPhoto{
+#userPhoto {
     width: 96px;
     height: 96px;
     display: block;
@@ -18,7 +19,7 @@ body{
     border-radius: 50%;
 }
 
-#userName{
+#userName {
     color: #fff;
     font-size: 1rem;
     font-weight: 700;
@@ -31,14 +32,15 @@ body{
     margin-bottom: 30px;
 }
 
-#links{
+#links {
     max-width: 636px;
     width: auto;
     display: block;
     margin: 27px auto;
     padding: 0 3px;
 }
-.link{
+
+.link {
     display: block;
     background-color: var(--accentColor);
     color: var(--bgColor);
@@ -52,20 +54,56 @@ body{
     height: 23px;
     text-decoration: none;
     font-size: 1rem;
-    transition: all .25s cubic-bezier(.08,.59,.29,.99);
+    transition: all .25s cubic-bezier(.08, .59, .29, .99);
     border: solid var(--accentColor) 2px;
 }
 
-.link:hover{
+.link:hover {
     background-color: var(--bgColor);
     color: var(--accentColor);
 }
 
-.icons{
+
+#event {
+    font-size: 1.5rem;
+    height: auto;
+    padding-bottom: 35px
+}
+
+.popper {
+    transform: translateY(15px);
+    -webkit-transform: translateY(15px);
+}
+
+#left {
+    -webkit-transform: scaleX(-1) translateY(15px) translateX(10px);
+    transform: scaleX(-1) translateY(15px) translateX(10px);
+}
+
+
+@media screen and (max-width: 870px) {
+    #event {
+        font-size: 1.4rem;
+        height: auto
+    }
+
+    .popper {
+        transform: translateY(20px);
+        -webkit-transform: translateY(20px);
+    }
+
+    #left {
+        -webkit-transform: scaleX(-1) translateY(20px) translateX(10px);
+        transform: scaleX(-1) translateY(20px) translateX(10px);
+    }
+}
+
+
+.icons {
     text-align: center;
 }
 
-.icon{
+.icon {
     width: 29px;
     height: 29px;
     display: inline-block;
